@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A penultimate year Computer Engineering Student at NUS</h3>
 
-- 🔭 I’m currently working as **Software Engineer Intern at SimpleAI**
+- 🔭 I’m currently working as a **Software Engineer Intern at SimpleAI**
 
-- 📫 How to reach me **paturi.karthik1@gmail.com**
+- 📫 How to reach me: **paturi.karthik1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
