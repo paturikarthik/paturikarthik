@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A penultimate year Computer Engineering Student at NUS</h3>
+<h3 align="center">A final year Computer Engineering Student at NUS</h3>
 
 - 🔭 I’m currently working as a **Software Engineer Intern at SimpleAI**
 
